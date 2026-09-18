@@ -1,12 +1,21 @@
 {
-    "cSpell.words": [
-        "annot",
-        "cmap",
-        "coolwarm",
-        "hassinarman",
-        "kagglehub",
-        "xlabel",
-        "xticks",
-        "ylabel"
-    ]
+  "cSpell.words": [
+    "annot",
+    "cmap",
+    "coolwarm",
+    "hassinarman",
+    "kagglehub",
+    "xlabel",
+    "xticks",
+    "ylabel"
+  ],
+  "task.allowAutomaticTasks": true,
+  "debug.openDebug": "neverOpen",
+  "terminal.integrated.inheritEnv": false,
+  "tasks": {
+    "label": "lint on open",
+    "type": "shell",
+    "command": "npm run lint",
+    "runOn": "folderOpen"
+  }
 }
