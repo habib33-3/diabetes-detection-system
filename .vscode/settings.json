@@ -6,6 +6,8 @@
         "figsize",
         "hassinarman",
         "kagglehub",
+        "matplotlib",
+        "pyplot",
         "xlabel",
         "xticks",
         "ylabel"
