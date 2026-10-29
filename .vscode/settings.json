@@ -48,13 +48,5 @@
     "ylabel",
     "ylim"
   ],
-  "task.allowAutomaticTasks": true,
-  "debug.openDebug": "neverOpen",
-  "terminal.integrated.inheritEnv": false,
-  "tasks": {
-    "label": "lint on open",
-    "type": "shell",
-    "command": "npm run lint",
-    "runOn": "folderOpen"
-  }
+ 
 }
