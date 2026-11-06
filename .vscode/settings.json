@@ -2,9 +2,12 @@
   "cSpell.words": [
     "annot",
     "axvline",
+    "bytree",
     "cmap",
     "colab",
+    "colsample",
     "coolwarm",
+    "corrcoef",
     "dataframe",
     "datavalues",
     "diadb",
@@ -28,6 +31,7 @@
     "lbfgs",
     "liblinear",
     "linestyle",
+    "logloss",
     "matplotlib",
     "mboxplot",
     "mfigure",
@@ -48,5 +52,6 @@
     "xticks",
     "ylabel",
     "ylim"
-  ]
+  ],
+  "python.analysis.autoImportCompletions": true
 }
