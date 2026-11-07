@@ -216,5 +216,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-config.bat
-node_modules
+
