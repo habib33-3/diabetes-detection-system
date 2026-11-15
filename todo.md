@@ -28,11 +28,11 @@
 
 ### Phase 4: Classification Threshold Optimization
 
-- [ ] Evaluate different classification thresholds.
-- [ ] Plot precision-recall trade-offs.
-- [ ] Identify thresholds that improve diabetes recall without excessive false positives.
-- [ ] Compare default threshold (0.5) against the optimized threshold.
-- [ ] Evaluate the selected threshold on the untouched test set.
+- [x] Evaluate different classification thresholds.
+- [x] Plot precision-recall trade-offs.
+- [x] Identify thresholds that improve diabetes recall without excessive false positives.
+- [x] Compare default threshold (0.5) against the optimized threshold.
+- [x] Evaluate the selected threshold on the untouched test set.
 
 ### Phase 5: Final Model Comparison
 
