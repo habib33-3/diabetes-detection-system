@@ -1,10 +1,22 @@
 {
     "cSpell.words": [
         "Axch",
+        "axvline",
         "bytree",
+        "cmap",
         "colsample",
         "corrcoef",
+        "figsize",
         "gyqunl",
-        "proba"
+        "lbfgs",
+        "liblinear",
+        "linestyle",
+        "proba",
+        "sharex",
+        "sharey",
+        "xlabel",
+        "xticks",
+        "ylabel",
+        "ylim"
     ]
 }
