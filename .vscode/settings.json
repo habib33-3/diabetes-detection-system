@@ -1,13 +1,22 @@
 {
     "cSpell.words": [
         "bytree",
+        "cmap",
+        "colorbar",
         "colsample",
+        "diadb",
         "figsize",
         "imblearn",
         "lbfgs",
         "liblinear",
         "Logits",
+        "ncol",
+        "sharey",
+        "suptitle",
+        "Undersampling",
         "xlabel",
-        "ylabel"
+        "xticklabels",
+        "ylabel",
+        "ylim"
     ]
 }
