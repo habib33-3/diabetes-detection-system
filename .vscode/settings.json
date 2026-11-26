@@ -13,6 +13,7 @@
         "ncol",
         "sharey",
         "suptitle",
+        "torchview",
         "Undersampling",
         "xlabel",
         "xticklabels",
